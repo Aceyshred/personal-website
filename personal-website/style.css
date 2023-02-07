@@ -1,0 +1,25 @@
+.image{
+    display: flex;
+    justify-content: center;
+}
+.photo{
+    border: 2 px;
+width: 100%;
+max-width: 500px;
+min-width: 100px;
+}
+p{
+    color: blue;
+font-style: italic;
+font-family: arial;
+font-weight: bold;
+border-style: solid;
+background-color:lightgrey;
+}
+.me{
+    color: lightgreen;
+font-weight: bold;
+font-family: sans-serif;
+font-style: italic;
+border-style: dashed;
+}
